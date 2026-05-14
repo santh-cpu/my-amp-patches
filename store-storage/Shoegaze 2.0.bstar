@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Sound CE="1" CS="1" LastModified="13/12/2021 22:43:41" FirmwareVersion="4">
+  <Info>
+    <Name>Shoegaze 2.0</Name>
+    <Creator>turt</Creator>
+    <Genre>22</Genre>
+    <SubGenre>18</SubGenre>
+    <SearchTags>Shoegaze, Indie, Indie Rock, mbv, slowdive, my bloody valentine, tagabow, smashing pumpkins</SearchTags>
+    <About>better shoegaze patch, more fuzz and distortion. tested with a Squier Classic Vibe Jazzmaster</About>
+  </Info>
+  <Amplifier>
+    <Voice>4</Voice>
+    <Gain>69</Gain>
+    <Volume>127</Volume>
+    <Bass>102</Bass>
+    <Middle>64</Middle>
+    <Treble>51</Treble>
+    <ISF>0</ISF>
+    <TVP Status="1">4</TVP>
+    <Presence>127</Presence>
+    <Resonance>127</Resonance>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Delay Status="0" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">0</Types>
+      <Adjust1>10</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>50</Level>
+      <Tempo>512</Tempo>
+    </Delay>
+    <Reverb Status="1" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">0</Types>
+      <Adjust1>31</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>51</Level>
+    </Reverb>
+    <Modulation Status="1" Position="0">
+      <Types Phaser="0" Flanger="50" Chorus="52" Tremolo="12">1</Types>
+      <Adjust1>27</Adjust1>
+      <Adjust2>64</Adjust2>
+      <Level>50</Level>
+      <Rate>50</Rate>
+    </Modulation>
+    <NoiseGate Status="1">
+      <Sensibility>30</Sensibility>
+      <Amount>25</Amount>
+    </NoiseGate>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>

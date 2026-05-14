@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sound CE="1" CS="1" LastModified="13/05/2025 00:00:00" FirmwareVersion="4">
+  <Info>
+    <Name>Metallica Black Album v2</Name>
+    <Creator>Custom</Creator>
+    <Genre>27</Genre>
+    <SubGenre>19</SubGenre>
+    <SearchTags>Metallica;Enter Sandman;Black Album;Metal;Heavy;OD1</SearchTags>
+    <About>Black Album era Metallica: tight American attack, high gain, scooped but not dead mids, room reverb. Use bridge pickup. Palm mute test: should sound chunky not muddy.</About>
+  </Info>
+  <Amplifier>
+    <Voice>4</Voice>
+    <Gain>122</Gain>
+    <Volume>80</Volume>
+    <Bass>90</Bass>
+    <Middle>35</Middle>
+    <Treble>100</Treble>
+    <ISF>10</ISF>
+    <TVP Status="1">4</TVP>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Modulation Status="0" Position="0">
+      <Types Phaser="0" Flanger="4" Chorus="8" Tremolo="12">2</Types>
+      <Adjust1>2</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>10</Level>
+      <Rate>0</Rate>
+    </Modulation>
+    <Delay Status="1" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">0</Types>
+      <Adjust1>10</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>18</Level>
+      <Tempo>420</Tempo>
+    </Delay>
+    <Reverb Status="1" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">0</Types>
+      <Adjust1>6</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>20</Level>
+    </Reverb>
+    <NoiseGate Status="1">
+      <Sensibility>22</Sensibility>
+      <Amount>18</Amount>
+    </NoiseGate>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>

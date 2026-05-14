@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Sound FirmwareVersion="1" CE="1" CS="1" LastModified="23/10/2013 00:40:51">
+  <Amplifier>
+    <Voice>1</Voice>
+    <Gain>127</Gain>
+    <Volume>8</Volume>
+    <Bass>127</Bass>
+    <Middle>127</Middle>
+    <Treble>127</Treble>
+    <ISF>127</ISF>
+    <TVP Status="1">5</TVP>
+  </Amplifier>
+  <EffectsChain Focused="3">
+    <Modulation Position="0" Status="1">
+      <Types Phaser="0" Flanger="4" Chorus="8" Tremolo="12">3</Types>
+      <Adjust1>31</Adjust1>
+      <Adjust2>64</Adjust2>
+      <Level>15</Level>
+      <Rate>15</Rate>
+    </Modulation>
+    <Delay Position="0" Status="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">2</Types>
+      <Adjust1>6</Adjust1>
+      <Adjust2>127</Adjust2>
+      <Level>44</Level>
+      <Tempo>180</Tempo>
+    </Delay>
+    <Reverb Position="0" Status="1">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">2</Types>
+      <Adjust1>21</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>38</Level>
+    </Reverb>
+  </EffectsChain>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Info>
+    <Name>HENDRIX WING</Name>
+    <Creator>BLACKSTAR PRODUCT TRAINER</Creator>
+    <Genre>5</Genre>
+    <SubGenre>3</SubGenre>
+    <SearchTags>JIMI HENDRIX;HENDRIX;HEY JOE;LITTLE WING;WIND CRIES MARY</SearchTags>
+    <About>A LOVELY HARSH CLEAN FOR ANY MELLOW MOMENTS OF HENDRIX....LIKE THE MAN HIMSELF EVERYTHING IS CRANKED BAR THE VOLUME OF THE CHANNEL, A TOUCH OF TREMOLO/VIBRATOR.ROTARY IN THE MIX WITH HIS KT88 HE WOULD HAVE USED BACK IN THE DAY...TRY LITTLE WING AND HEY JOE! </About>
+  </Info>
+</Sound>

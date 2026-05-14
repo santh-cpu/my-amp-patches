@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Sound FirmwareVersion="1" CE="1" CS="1" LastModified="23/10/2013 00:42:49">
+  <Amplifier>
+    <Voice>4</Voice>
+    <Gain>127</Gain>
+    <Volume>17</Volume>
+    <Bass>87</Bass>
+    <Middle>39</Middle>
+    <Treble>95</Treble>
+    <ISF>0</ISF>
+    <TVP Status="1">4</TVP>
+  </Amplifier>
+  <EffectsChain Focused="3">
+    <Modulation Position="0" Status="1">
+      <Types Phaser="0" Flanger="4" Chorus="8" Tremolo="12">2</Types>
+      <Adjust1>2</Adjust1>
+      <Adjust2>127</Adjust2>
+      <Level>7</Level>
+      <Rate>0</Rate>
+    </Modulation>
+    <Delay Position="0" Status="1">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">0</Types>
+      <Adjust1>19</Adjust1>
+      <Adjust2>127</Adjust2>
+      <Level>26</Level>
+      <Tempo>430</Tempo>
+    </Delay>
+    <Reverb Position="0" Status="1">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">2</Types>
+      <Adjust1>7</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>28</Level>
+    </Reverb>
+  </EffectsChain>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Info>
+    <Name>ENTER METALLICA</Name>
+    <Creator>BLACKSTAR PRODUCT TRAINER</Creator>
+    <Genre>27</Genre>
+    <SubGenre>19</SubGenre>
+    <SearchTags>ENTER SANDMAN;METALLICA;METAL;HEAVY;LIMP BIZKIT</SearchTags>
+    <About>GREAT TONE FOR THAT DROWNING SMOOTH METAL SOUND, THINK EITHER LIMP BIZKIT AND THE ROLLIN RIFF OR METALLICA WITH ENTER SANDMAN AND THE TONE WILL WORK WONDERS</About>
+  </Info>
+</Sound>

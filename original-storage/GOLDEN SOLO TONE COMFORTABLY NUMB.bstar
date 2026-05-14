@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Sound CE="1" CS="1" LastModified="10/04/2021 12:40:47" FirmwareVersion="3">
+  <Info>
+    <Name>GOLDEN SOLO TONE COMF</Name>
+    <Creator>AlphaSoul</Creator>
+    <Genre>37</Genre>
+    <SubGenre>32</SubGenre>
+    <SearchTags>pink floyd david gilmour comfortably numb</SearchTags>
+    <About>I've researched a lot about the tone of Comfortably Numb and created this beauty, Enjoy it in every note.</About>
+  </Info>
+  <Amplifier>
+    <Voice>5</Voice>
+    <Gain>116</Gain>
+    <Volume>47</Volume>
+    <Bass>44</Bass>
+    <Middle>51</Middle>
+    <Treble>64</Treble>
+    <ISF>64</ISF>
+    <TVP Status="1">4</TVP>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Delay Status="1" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">0</Types>
+      <Adjust1>25</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>51</Level>
+      <Tempo>512</Tempo>
+    </Delay>
+    <Reverb Status="1" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">2</Types>
+      <Adjust1>13</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>52</Level>
+    </Reverb>
+    <Modulation Status="1" Position="0">
+      <Types Phaser="0" Flanger="50" Chorus="52" Tremolo="12">1</Types>
+      <Adjust1>15</Adjust1>
+      <Adjust2>36</Adjust2>
+      <Level>38</Level>
+      <Rate>50</Rate>
+    </Modulation>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>

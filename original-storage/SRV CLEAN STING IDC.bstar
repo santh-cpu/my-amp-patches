@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Sound FirmwareVersion="1" CE="1" CS="1" LastModified="30/05/2014 12:28:42">
+  <Amplifier>
+    <Voice>1</Voice>
+    <Gain>123</Gain>
+    <Volume>21</Volume>
+    <Bass>94</Bass>
+    <Middle>49</Middle>
+    <Treble>68</Treble>
+    <ISF>31</ISF>
+    <TVP Status="1">0</TVP>
+  </Amplifier>
+  <EffectsChain Focused="3">
+    <Modulation Position="0" Status="0">
+      <Types Phaser="0" Flanger="4" Chorus="8" Tremolo="12">2</Types>
+      <Adjust1>16</Adjust1>
+      <Adjust2>64</Adjust2>
+      <Level>52</Level>
+      <Rate>23</Rate>
+    </Modulation>
+    <Delay Position="0" Status="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">0</Types>
+      <Adjust1>21</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>106</Level>
+      <Tempo>448</Tempo>
+    </Delay>
+    <Reverb Position="0" Status="1">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">2</Types>
+      <Adjust1>25</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>79</Level>
+    </Reverb>
+  </EffectsChain>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Info>
+    <Name>SRV CLEAN STING IDC</Name>
+    <Creator>BLACKSTAR PRODUCT TRAINER </Creator>
+    <Genre>3</Genre>
+    <SubGenre>22</SubGenre>
+    <SearchTags>SRV; STEVIE RAY VAUGHN; JAKE BUGG; INDIE CLEAN; BLUES; </SearchTags>
+    <About>CLEAN BRIGHT SPARKLE FOR ID CORE AMPS WITH SOME STING IN THE TAIL. BACK OFF THE VOLUME TO CLEAN UP, AND CRANK IT FOR BITING CLEAN. GREAT WITH SINGLE COILS. SCUTTLE BUTTIN BY SRV SOUNDS GREAT WITH THIS</About>
+  </Info>
+</Sound>

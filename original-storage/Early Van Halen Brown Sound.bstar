@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Sound CE="1" CS="1" LastModified="05/03/2021 10:57:51" FirmwareVersion="1">
+  <Info>
+    <Name>Early Van Halen Brown Sound</Name>
+    <Creator>Architect</Creator>
+    <Genre>5</Genre>
+    <SubGenre>5</SubGenre>
+    <SearchTags></SearchTags>
+    <About></About>
+  </Info>
+  <Amplifier>
+    <Voice>3</Voice>
+    <Gain>101</Gain>
+    <Volume>127</Volume>
+    <Bass>82</Bass>
+    <Middle>118</Middle>
+    <Treble>119</Treble>
+    <ISF>103</ISF>
+    <TVP Status="1">2</TVP>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Delay Status="1" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">2</Types>
+      <Adjust1>5</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>42</Level>
+      <Tempo>340</Tempo>
+    </Delay>
+    <Reverb Status="1" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">3</Types>
+      <Adjust1>14</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>34</Level>
+    </Reverb>
+    <Modulation Status="0" Position="0">
+      <Types Phaser="0" Flanger="4" Chorus="8" Tremolo="12">2</Types>
+      <Adjust1>5</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>39</Level>
+      <Rate>29</Rate>
+    </Modulation>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sound CE="1" CS="1" LastModified="13/05/2025 00:00:00" FirmwareVersion="4">
+  <Info>
+    <Name>SRV Texas Bright v2</Name>
+    <Creator>Custom</Creator>
+    <Genre>3</Genre>
+    <SubGenre>22</SubGenre>
+    <SearchTags>SRV;Stevie Ray Vaughan;Blues;Texas;Clean Bright</SearchTags>
+    <About>Researched SRV tone: edge-of-breakup clean with treble snap and spring reverb. Neck or neck+middle pickup. Back off guitar volume to clean up further.</About>
+  </Info>
+  <Amplifier>
+    <Voice>1</Voice>
+    <Gain>108</Gain>
+    <Volume>90</Volume>
+    <Bass>77</Bass>
+    <Middle>64</Middle>
+    <Treble>95</Treble>
+    <ISF>25</ISF>
+    <TVP Status="1">1</TVP>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Modulation Status="0" Position="0">
+      <Types Phaser="0" Flanger="4" Chorus="8" Tremolo="12">0</Types>
+      <Adjust1>5</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>40</Level>
+      <Rate>20</Rate>
+    </Modulation>
+    <Delay Status="0" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">1</Types>
+      <Adjust1>12</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>35</Level>
+      <Tempo>384</Tempo>
+    </Delay>
+    <Reverb Status="1" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">2</Types>
+      <Adjust1>18</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>38</Level>
+    </Reverb>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>

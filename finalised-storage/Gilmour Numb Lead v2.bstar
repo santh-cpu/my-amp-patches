@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sound CE="1" CS="1" LastModified="13/05/2025 00:00:00" FirmwareVersion="4">
+  <Info>
+    <Name>Gilmour Numb Lead v2</Name>
+    <Creator>Custom</Creator>
+    <Genre>37</Genre>
+    <SubGenre>32</SubGenre>
+    <SearchTags>Gilmour;Pink Floyd;Comfortably Numb;Lead;Solo;OD2</SearchTags>
+    <About>Researched Gilmour tone: 370ms digital delay with 3-4 repeats mixed low, spring reverb, subtle chorus for Yamaha rotary feel. High gain but smooth. Neck pickup.</About>
+  </Info>
+  <Amplifier>
+    <Voice>5</Voice>
+    <Gain>112</Gain>
+    <Volume>60</Volume>
+    <Bass>50</Bass>
+    <Middle>58</Middle>
+    <Treble>68</Treble>
+    <ISF>64</ISF>
+    <TVP Status="1">4</TVP>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Delay Status="1" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">0</Types>
+      <Adjust1>22</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>45</Level>
+      <Tempo>370</Tempo>
+    </Delay>
+    <Reverb Status="1" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">2</Types>
+      <Adjust1>12</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>48</Level>
+    </Reverb>
+    <Modulation Status="1" Position="0">
+      <Types Phaser="0" Flanger="50" Chorus="52" Tremolo="12">1</Types>
+      <Adjust1>12</Adjust1>
+      <Adjust2>30</Adjust2>
+      <Level>30</Level>
+      <Rate>40</Rate>
+    </Modulation>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>

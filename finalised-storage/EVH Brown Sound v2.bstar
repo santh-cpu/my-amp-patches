@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sound CE="1" CS="1" LastModified="13/05/2025 00:00:00" FirmwareVersion="4">
+  <Info>
+    <Name>EVH Brown Sound v2</Name>
+    <Creator>Custom</Creator>
+    <Genre>5</Genre>
+    <SubGenre>5</SubGenre>
+    <SearchTags>Van Halen;Brown Sound;Eddie;Marshall;Super Crunch;Classic Rock</SearchTags>
+    <About>Researched Brown Sound: moderate gain with EL34 British warmth, boosted bass, mids kept in (NOT scooped), phaser and tape echo. Bridge humbucker. The brown is in the feel not the gain.</About>
+  </Info>
+  <Amplifier>
+    <Voice>3</Voice>
+    <Gain>95</Gain>
+    <Volume>110</Volume>
+    <Bass>90</Bass>
+    <Middle>80</Middle>
+    <Treble>100</Treble>
+    <ISF>85</ISF>
+    <TVP Status="1">2</TVP>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Modulation Status="1" Position="0">
+      <Types Phaser="0" Flanger="4" Chorus="8" Tremolo="12">0</Types>
+      <Adjust1>8</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>28</Level>
+      <Rate>18</Rate>
+    </Modulation>
+    <Delay Status="1" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">2</Types>
+      <Adjust1>5</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>30</Level>
+      <Tempo>320</Tempo>
+    </Delay>
+    <Reverb Status="1" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">0</Types>
+      <Adjust1>8</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>22</Level>
+    </Reverb>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>

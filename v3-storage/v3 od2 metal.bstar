@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sound CE="1" CS="1" LastModified="13/05/2025 00:00:00" FirmwareVersion="4">
+  <Info>
+    <Name>v3 Wildcard Metal</Name>
+    <Creator>Custom</Creator>
+    <Genre>27</Genre>
+    <SubGenre>19</SubGenre>
+    <SearchTags>metal;metallica;tight;modern;high gain</SearchTags>
+    <About>Black Album-style tight metal. Bridge pickup. Swap with Shoegaze as needed.</About>
+  </Info>
+  <Amplifier>
+    <Voice>5</Voice>
+    <Gain>122</Gain>
+    <Volume>102</Volume>
+    <Bass>115</Bass>
+    <Middle>38</Middle>
+    <Treble>127</Treble>
+    <ISF>13</ISF>
+    <TVP Status="1">5</TVP>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Delay Status="1" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">0</Types>
+      <Adjust1>10</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>18</Level>
+      <Tempo>420</Tempo>
+    </Delay>
+    <Reverb Status="1" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">0</Types>
+      <Adjust1>6</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>20</Level>
+    </Reverb>
+    <Modulation Status="0" Position="0">
+      <Types Phaser="0" Flanger="4" Chorus="8" Tremolo="12">0</Types>
+      <Adjust1>0</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>0</Level>
+      <Rate>0</Rate>
+    </Modulation>
+    <NoiseGate Status="1">
+      <Sensibility>30</Sensibility>
+      <Amount>25</Amount>
+    </NoiseGate>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Sound CE="1" CS="1" LastModified="31/07/2022 17:18:14" FirmwareVersion="4">
+  <Info>
+    <Name>FUZZY WAH PEDAL</Name>
+    <Creator>Architect</Creator>
+    <Genre>14</Genre>
+    <SubGenre>-1</SubGenre>
+    <SearchTags></SearchTags>
+    <About></About>
+  </Info>
+  <Amplifier>
+    <Voice>2</Voice>
+    <Gain>113</Gain>
+    <Volume>11</Volume>
+    <Bass>1</Bass>
+    <Middle>101</Middle>
+    <Treble>104</Treble>
+    <ISF>12</ISF>
+    <TVP Status="1">1</TVP>
+    <Presence>60</Presence>
+    <Resonance>80</Resonance>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Delay Status="0" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">3</Types>
+      <Adjust1>22</Adjust1>
+      <Adjust2>50</Adjust2>
+      <Level>40</Level>
+      <Tempo>256</Tempo>
+    </Delay>
+    <Reverb Status="1" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">3</Types>
+      <Adjust1>22</Adjust1>
+      <Adjust2>42</Adjust2>
+      <Level>13</Level>
+    </Reverb>
+    <Modulation Status="1" Position="0">
+      <Types Phaser="0" Flanger="50" Chorus="52" Tremolo="12">2</Types>
+      <Adjust1>29</Adjust1>
+      <Adjust2>16</Adjust2>
+      <Level>127</Level>
+      <Rate>111</Rate>
+    </Modulation>
+    <NoiseGate Status="1">
+      <Sensibility>30</Sensibility>
+      <Amount>25</Amount>
+    </NoiseGate>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>

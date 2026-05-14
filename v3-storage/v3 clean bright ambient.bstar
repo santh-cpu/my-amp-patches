@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sound CE="1" CS="1" LastModified="13/05/2025 00:00:00" FirmwareVersion="4">
+  <Info>
+    <Name>v3 Ambient Clean</Name>
+    <Creator>Custom</Creator>
+    <Genre>-1</Genre>
+    <SubGenre>-1</SubGenre>
+    <SearchTags>ambient;clean;shimmer;lush;atmospheric</SearchTags>
+    <About>Pristine clean with hall reverb and digital delay. Neck or Pos 4.</About>
+  </Info>
+  <Amplifier>
+    <Voice>1</Voice>
+    <Gain>32</Gain>
+    <Volume>76</Volume>
+    <Bass>64</Bass>
+    <Middle>64</Middle>
+    <Treble>89</Treble>
+    <ISF>51</ISF>
+    <TVP Status="1">5</TVP>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Delay Status="1" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">0</Types>
+      <Adjust1>20</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>57</Level>
+      <Tempo>400</Tempo>
+    </Delay>
+    <Reverb Status="1" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">1</Types>
+      <Adjust1>20</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>76</Level>
+    </Reverb>
+    <Modulation Status="0" Position="0">
+      <Types Phaser="0" Flanger="4" Chorus="8" Tremolo="12">0</Types>
+      <Adjust1>0</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>0</Level>
+      <Rate>0</Rate>
+    </Modulation>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>

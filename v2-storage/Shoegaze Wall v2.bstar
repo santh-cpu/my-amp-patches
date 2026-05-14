@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sound CE="1" CS="1" LastModified="13/05/2025 00:00:00" FirmwareVersion="4">
+  <Info>
+    <Name>Shoegaze Wall v2</Name>
+    <Creator>Custom</Creator>
+    <Genre>22</Genre>
+    <SubGenre>18</SubGenre>
+    <SearchTags>Shoegaze;MBV;My Bloody Valentine;Slowdive;Ambient;OD1;Indie</SearchTags>
+    <About>Wall-of-sound shoegaze: heavy fuzz, bass-heavy, dreamy flanger, long tape delay for wash, hall reverb. Neck pickup. Let chords ring and blur together.</About>
+  </Info>
+  <Amplifier>
+    <Voice>4</Voice>
+    <Gain>72</Gain>
+    <Volume>115</Volume>
+    <Bass>108</Bass>
+    <Middle>55</Middle>
+    <Treble>45</Treble>
+    <ISF>0</ISF>
+    <TVP Status="1">4</TVP>
+    <Presence>110</Presence>
+    <Resonance>110</Resonance>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Delay Status="1" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">2</Types>
+      <Adjust1>18</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>55</Level>
+      <Tempo>490</Tempo>
+    </Delay>
+    <Reverb Status="1" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">1</Types>
+      <Adjust1>35</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>58</Level>
+    </Reverb>
+    <Modulation Status="1" Position="0">
+      <Types Phaser="0" Flanger="50" Chorus="52" Tremolo="12">1</Types>
+      <Adjust1>30</Adjust1>
+      <Adjust2>70</Adjust2>
+      <Level>55</Level>
+      <Rate>45</Rate>
+    </Modulation>
+    <NoiseGate Status="1">
+      <Sensibility>28</Sensibility>
+      <Amount>22</Amount>
+    </NoiseGate>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>

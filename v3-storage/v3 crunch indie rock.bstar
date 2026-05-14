@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sound CE="1" CS="1" LastModified="13/05/2025 00:00:00" FirmwareVersion="4">
+  <Info>
+    <Name>v3 Indie Chug</Name>
+    <Creator>Custom</Creator>
+    <Genre>22</Genre>
+    <SubGenre>18</SubGenre>
+    <SearchTags>indie;garage;strokes;geese;dry;punchy</SearchTags>
+    <About>Mid-forward Crunch, no reverb. Bridge or Pos 1.</About>
+  </Info>
+  <Amplifier>
+    <Voice>2</Voice>
+    <Gain>51</Gain>
+    <Volume>89</Volume>
+    <Bass>51</Bass>
+    <Middle>76</Middle>
+    <Treble>89</Treble>
+    <ISF>64</ISF>
+    <TVP Status="1">2</TVP>
+  </Amplifier>
+  <EffectsChain Focused="0">
+    <Delay Status="0" Position="0">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">0</Types>
+      <Adjust1>0</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>0</Level>
+      <Tempo>0</Tempo>
+    </Delay>
+    <Reverb Status="0" Position="0">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">0</Types>
+      <Adjust1>0</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>0</Level>
+    </Reverb>
+    <Modulation Status="0" Position="0">
+      <Types Phaser="0" Flanger="4" Chorus="8" Tremolo="12">0</Types>
+      <Adjust1>0</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>0</Level>
+      <Rate>0</Rate>
+    </Modulation>
+  </EffectsChain>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+</Sound>

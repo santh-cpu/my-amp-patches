@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Sound FirmwareVersion="1" CE="1" CS="1" LastModified="04/12/2016 14:17:56">
+  <Amplifier>
+    <Voice>2</Voice>
+    <Gain>64</Gain>
+    <Volume>89</Volume>
+    <Bass>90</Bass>
+    <Middle>64</Middle>
+    <Treble>84</Treble>
+    <ISF>80</ISF>
+    <TVP Status="1">4</TVP>
+  </Amplifier>
+  <EffectsChain Focused="3">
+    <Modulation Position="0" Status="0">
+      <Types Phaser="0" Flanger="4" Chorus="8" Tremolo="12">0</Types>
+      <Adjust1>0</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>0</Level>
+      <Rate>0</Rate>
+    </Modulation>
+    <Delay Position="0" Status="1">
+      <Types Linear="16" Analogue="17" Tape="21" Multi="25">1</Types>
+      <Adjust1>9</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>105</Level>
+      <Tempo>384</Tempo>
+    </Delay>
+    <Reverb Position="0" Status="1">
+      <Types Room="29" Hall="33" Spring="37" Plate="41">2</Types>
+      <Adjust1>25</Adjust1>
+      <Adjust2>0</Adjust2>
+      <Level>106</Level>
+    </Reverb>
+  </EffectsChain>
+  <Audio>
+    <Metronome Type="0">120</Metronome>
+    <Track Repeat="0">NO TRACK</Track>
+  </Audio>
+  <Tuner>0</Tuner>
+  <Bench>0</Bench>
+  <Info>
+    <Name>MAYER GRAVITY</Name>
+    <Creator>PACOFUNK </Creator>
+    <Genre>3</Genre>
+    <SubGenre>-1</SubGenre>
+    <SearchTags></SearchTags>
+    <About>NO DESCRIPTION</About>
+  </Info>
+</Sound>
